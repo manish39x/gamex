@@ -88,7 +88,7 @@ const Features = () => {
         <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
           <BentoCard 
           src="videos/feature-1.mp4"
-          title={<>radi<b>n</b>t</>}
+          title={<>radiA<b>n</b>t</>}
           description="A cross-platform, multi-chain, and multi-protocol wallet that allows you to manage your assets and interact with dApps seamlessly."
           />
         </BentoTilt>
